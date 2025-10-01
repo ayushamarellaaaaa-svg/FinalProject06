@@ -3,5 +3,6 @@ public class Test {
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("Hi, ini baris junn gantengg abizz");
         System.out.println("Hi, ini baris jell gantengg");
+        System.out.println("Hi, ini baris cachaaa");
     }
 }
